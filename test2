@@ -1,0 +1,5 @@
+.edit .stick{
+	background: url(https://www.clipartmax.com/png/middle/4-41641_skull-clipart-transparent-background-skull-and-crossbones-png.png);
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+}
