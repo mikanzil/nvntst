@@ -1,0 +1,3 @@
+.edit .stick{
+	filter:saturate(6) hue-rotate(45);
+}
